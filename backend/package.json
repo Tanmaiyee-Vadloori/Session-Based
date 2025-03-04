@@ -1,0 +1,21 @@
+{
+    "name": "simple-session-auth",
+    "version": "1.0.0",
+    "description": "A minimal application demonstrating session-based authentication using Node.js and Express.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "Tanmaiyee Vadloori",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "express-session": "^1.18.1"
+    },
+    "devDependencies": {
+        "mocha": "^11.1.0"
+    }
+}
